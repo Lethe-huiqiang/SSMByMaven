@@ -14,7 +14,7 @@ public class MybatisGenerator {
 		List<String> warnings=new ArrayList<String>();
 		boolean override=true;
 		//制定逆向工程配置文件
-		File configFile=new File("generatorConfig.xml");
+//		File configFile=new File("generatorConfig.xml");
 //		ConfigurationParser cp=new ConfigurationParser(warnings);
 //		Configuration config=
 		
